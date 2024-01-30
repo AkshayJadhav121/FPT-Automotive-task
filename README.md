@@ -27,18 +27,7 @@
    - `pip install -r requirements.txt` to install all packages.
    - Add the Python interpreter corresponds to the virtualenv.
 
-## Running Tests in VSCode
-
-- Run `pipenv run python -m pytest` from the command line to run all tests.
-- To see the console logs, user the `-vs` option.
-- To run tests by tags, use the `-m` option with the tag's names.
-- Run tests with CLI arguments:
-  - `pipenv run python -m pytest -vs -m demo`
 
 ## Running Tests in Pycharm
 
-- Run `pytest` from the command line to run all tests.
-- To see the console logs, user the `-vs` option.
-- To run tests by tags, use the `-m` option with the tag's names.
-- Run tests with CLI arguments:
-  - `pytest -vs -m demo`
+- Run `Task.py` from the command line to run all tests.
